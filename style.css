@@ -10,6 +10,20 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #358FFF;
   }
+
+  h3 {
+    text-align: right;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #358FFF;
+  }
+
+  h4 {
+    text-align: right;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #358FFF;
+  }
   
   p {
     text-align: center;
